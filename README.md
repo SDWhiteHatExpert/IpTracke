@@ -17,7 +17,7 @@ pip3 install <package_name>
 Clone Repository: Clone the IPTracker repository to your local machine.
 bash
 Copy code
-git clone https://github.com/techysdx/IPTracker.git
+git clone https://github.com/SDWhiteHatExpert/IpTracke.git
 Run Application: Execute the main Python script to start using IPTracker.
 Copy code
 python3 iptracker.py
