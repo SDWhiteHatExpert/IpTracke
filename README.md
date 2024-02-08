@@ -21,6 +21,10 @@ git clone https://github.com/techysdx/IPTracker.git
 Run Application: Execute the main Python script to start using IPTracker.
 Copy code
 python3 iptracker.py
+
+Run Application: Execute the main Python script to start using IPTracker.
+Copy code
+python3 iptracker.py
 Contributing:
 Contributions to the IPTracker project are welcomed! Feel free to fork the repository, make improvements, and submit pull requests to contribute to its development.
 
