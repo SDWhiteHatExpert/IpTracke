@@ -14,6 +14,6 @@ def get_ip_location(ip_address):
     return country, city
 
 if __name__ == "__main__":
-    ip_address = "8.8.8.8"  # Google's public DNS server
+    ip_address = "input_ip"  # Google's public DNS server
     country, city = get_ip_location(ip_address)
     print(f"{ip_address} is located in {country}, {city}.")
